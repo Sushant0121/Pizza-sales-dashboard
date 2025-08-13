@@ -1,7 +1,5 @@
-# Pizza-sales-dashboard
-Power BI Dashboard analyzing pizza sales data to uncover trends, top-selling items, and sales patterns.
-
-# 🍕 Pizza Sales Dashboard - Power BI
+# 🍕 Pizza Sales Dashboard 
+Interactive Power BI dashboard analyzing pizza sales data to identify top-selling products, sales trends, and customer purchase patterns, featuring KPI cards, category breakdowns, and time-based insights.
 
 ## 📌 Project Overview
 This Power BI dashboard provides insights into pizza sales performance, including:
@@ -22,18 +20,8 @@ The dataset contains order details such as:
 - Quantity Sold
 - Total Price
 
-## 📷 Dashboard Preview
-![Dashboard Screenshot](screenshot.png)
-
 ## 🛠 Tools Used
 - **Power BI Desktop**
 - Data Cleaning: Power Query
 - Data Modeling: DAX Measures
 
-## 📥 How to Use
-1. Download the `.pbix` file from this repository.
-2. Open it in **Power BI Desktop**.
-3. Explore and interact with the visuals.
-
----
-💡 *Created to showcase data visualization skills using real-world sales data.*
